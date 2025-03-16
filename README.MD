@@ -53,6 +53,15 @@ At **Solinn**, we provide **customized technology solutions** for businesses, co
 
 ---
 
+### 🎓 **Education & Certifications**
+
+📌 **Bachelor's Degree in Computer Science** – UNIFG (2011 - 2016)  
+📌 **MBA in IT Management & Quality** – IFPE (2020 - 2021)  
+📌 **Software Programming Residency** – UFPE (2022 - 2023)  
+📌 **Modern Software Engineering Extension Course** – UFMG (2025)
+
+---
+
 ### 📂 **Projects & Repositories**
 
 🔗 **GitHub (Solinn):** [github.com/SOLINNBR](https://github.com/SOLINNBR)  
@@ -60,7 +69,7 @@ At **Solinn**, we provide **customized technology solutions** for businesses, co
 
 📩 **Let’s connect!**
 
-📞 [WhatsApp: +55 (81) 98226-6783](https://api.whatsapp.com/send?phone=5581982266783&text=Hello!%20I%20would%20like%20to%20know%20more%20about%20your%20services.)
+📞 [WhatsApp: +55 (81) 98226-6783](https://api.whatsapp.com/send?phone=5581982266783&text=Hello!%20I%20would%20like%20to%20know%20more%20about%20your%20services.)  
 🌐 [LinkedIn](https://www.linkedin.com/in/mateuspalmeirasf/)  
 📩 Email: mateus@solinn.com.br
 
@@ -119,15 +128,11 @@ A **Solinn** oferece **soluções tecnológicas personalizadas** para empresas, 
 
 ---
 
-### 📂 **Projetos & Repositórios**
+### 🎓 **Formação Acadêmica & Certificações**
 
-🔗 **GitHub (Solinn):** [github.com/SOLINNBR](https://github.com/SOLINNBR)  
-🔗 **GitHub (Pessoal):** [github.com/jmateusps16](https://github.com/jmateusps16)
-
-📩 **Vamos conversar!**
-
-📞 [WhatsApp: +55 (81) 98226-6783](https://api.whatsapp.com/send?phone=5581982266783&text=Olá!%20Gostaria%20de%20saber%20mais%20sobre%20seus%20serviços.)
-🌐 [LinkedIn](https://www.linkedin.com/in/mateuspalmeirasf/)  
-📩 Email: mateus@solinn.com.br
+📌 **Bacharelado em Ciência da Computação** – UNIFG (2011 - 2016)  
+📌 **MBA em Gestão e Qualidade em TIC** – IFPE (2020 - 2021)  
+📌 **Residência em Programação de Software** – UFPE (2022 - 2023)  
+📌 **Curso de Extensão em Engenharia de Software Moderna** – UFMG (2025)
 
 </details>
