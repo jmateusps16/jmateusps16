@@ -1,138 +1,78 @@
-# 👋 Hello, I'm Mateus Pereira! 🚀
+# 👋 Hello, I'm Mateus Palmeira
 
-## 🌍 **Choose Your Language / Escolha Seu Idioma**
+## Senior Software Engineer | Java | Spring Boot | Distributed Systems
 
-<details open>
-  <summary>🇺🇸 English</summary>
+Senior Software Engineer with over 10 years of experience in software engineering, focused on backend systems, architecture design, and scalable applications.
 
-## **💡 Senior Software Engineer | Founder of Solinn Consultoria e Sistemas**
+I design, build, and evolve mission-critical systems with strong emphasis on:
 
-I am a **software engineer and system architect**, focused on **scalable, secure, and high-performance solutions**.
-
-I am the founder of **Solinn Consultoria e Sistemas LTDA**, where I help companies build and modernize systems, implement **efficient architectures**, and **automate processes** with artificial intelligence.
-
----
-
-### 🏢 **About Solinn Consultoria e Sistemas LTDA**
-
-At **Solinn**, we provide **customized technology solutions** for businesses, covering **software development, IT infrastructure, security, and data analysis**.
-
-🔹 **Backend Development:** Java (Spring Boot), Laravel, Python, Node.js  
-🔹 **Software Architecture:** DDD, Clean Architecture, Microservices, Event-Driven Architecture (EDA)  
-🔹 **Databases & Infrastructure:** PostgreSQL, MySQL, DB2, Redis, MongoDB  
-🔹 **Cloud & DevOps:** AWS (Lambda, S3, EC2), Docker, Kubernetes, CI/CD (Jenkins, GitHub Actions)  
-🔹 **Automation & Machine Learning:** AI-powered business process automation with Java and Python  
-🔹 **IT Consulting:** Infrastructure, databases, security, cloud migration, 24/7 support
-
-🌐 [Solinn Official Website](https://solinn.com.br/)  
-📞 Contact: +55 (81) 98226-6783
+- Scalability  
+- Maintainability  
+- Clean Architecture  
+- Domain-Driven Design (DDD)  
+- Microservices & Distributed Systems  
+- Asynchronous Processing  
+- Legacy System Modernization  
 
 ---
 
-### 🛠 **My Expertise Areas**
+## 💻 Core Technical Stack
 
-#### 🚀 **Software Engineering & Architecture**
+### Backend
+- Java
+- Spring Boot
+- REST APIs
+- Microservices Architecture
+- Event-Driven Systems
 
-✔️ **Building responsive and scalable web applications**  
-✔️ **Distributed systems, microservices, and API integration**  
-✔️ **Refactoring and modernizing legacy systems**  
-✔️ **Best coding practices, automated testing, and security**
+### Architecture & Engineering Practices
+- Clean Architecture
+- Domain-Driven Design
+- Modular Monoliths
+- System Refactoring
+- Legacy Modernization
+- Design Patterns
+- Automated Testing
+- Code Quality & Engineering Standards
 
-#### 🤖 **Machine Learning & Automation**
+### Databases
+- PostgreSQL
+- MySQL
+- Oracle
+- DB2
 
-✔️ **Developing intelligent bots and business process automation**  
-✔️ **Applying AI for data analysis and process optimization**  
-✔️ **Seamless Machine Learning integration into enterprise systems**
-
-#### 🏢 **IT Consulting for Companies**
-
-✔️ **Infrastructure, databases, security, and networking**  
-✔️ **Cloud migration and CI/CD implementation**  
-✔️ **Monitoring and support with Zabbix, GLPI, and enterprise antivirus**  
-✔️ **Technical training and team development**
-
----
-
-### 🎓 **Education & Certifications**
-
-📌 **Bachelor's Degree in Computer Science** – UNIFG (2011 - 2016)  
-📌 **MBA in IT Management & Quality** – IFPE (2020 - 2021)  
-📌 **Software Programming Residency** – UFPE (2022 - 2023)  
-📌 **Modern Software Engineering Extension Course** – UFMG (2025)
-
----
-
-### 📂 **Projects & Repositories**
-
-🔗 **GitHub (Solinn):** [github.com/SOLINNBR](https://github.com/SOLINNBR)  
-🔗 **GitHub (Personal):** [github.com/jmateusps16](https://github.com/jmateusps16)
-
-📩 **Let’s connect!**
-
-📞 [WhatsApp: +55 (81) 98226-6783](https://api.whatsapp.com/send?phone=5581982266783&text=Hello!%20I%20would%20like%20to%20know%20more%20about%20your%20services.)  
-🌐 [LinkedIn](https://www.linkedin.com/in/mateuspalmeirasf/)  
-📩 Email: mateus@solinn.com.br
-
-</details>
+### Cloud & DevOps
+- AWS (Lambda, EC2, S3)
+- Docker/Kubernetes
+- CI/CD (GitHub Actions, Jenkins)
 
 ---
 
-<details>
-  <summary>🇧🇷 Português</summary>
+## 🚀 Professional Focus
 
-## **💡 Engenheiro de Software Sênior | Fundador da Solinn Consultoria e Sistemas**
+My experience includes designing and evolving backend systems in financial and public-sector environments, working with high-volume data processing, resilient architectures, and long-term platform sustainability.
 
-Sou **engenheiro de software e arquiteto de sistemas**, especializado em **soluções escaláveis, seguras e de alto desempenho**.
+I am particularly interested in backend-heavy roles where I can contribute through:
 
-Sou fundador da **Solinn Consultoria e Sistemas LTDA**, onde ajudo empresas a **construir e modernizar sistemas**, implementar **arquiteturas eficientes** e **automatizar processos** com inteligência artificial.
-
----
-
-### 🏢 **Sobre a Solinn Consultoria e Sistemas LTDA**
-
-A **Solinn** oferece **soluções tecnológicas personalizadas** para empresas, abrangendo **desenvolvimento de software, infraestrutura de TI, segurança e análise de dados**.
-
-🔹 **Desenvolvimento Backend:** Java (Spring Boot), Laravel, Python, Node.js  
-🔹 **Arquitetura de Software:** DDD, Clean Architecture, Microsserviços, Event-Driven Architecture (EDA)  
-🔹 **Banco de Dados & Infraestrutura:** PostgreSQL, MySQL, DB2, Redis, MongoDB  
-🔹 **Cloud & DevOps:** AWS (Lambda, S3, EC2), Docker, Kubernetes, CI/CD (Jenkins, GitHub Actions)  
-🔹 **Automação & Machine Learning:** IA aplicada à automação de processos de negócios com Java e Python  
-🔹 **Consultoria em TI:** Infraestrutura, banco de dados, segurança, migração para nuvem, suporte 24/7
-
-🌐 [Site Oficial da Solinn](https://solinn.com.br/)  
-📞 Contato: +55 (81) 98226-6783
+- System Design
+- Architectural Decision-Making
+- Technical Leadership
+- Codebase Modernization
+- Engineering Best Practices
+- Platform Evolution
 
 ---
 
-### 🛠 **Áreas de Especialização**
+## 📌 About This GitHub
 
-#### 🚀 **Engenharia de Software & Arquitetura**
+This GitHub serves as a professional profile and technical identity.
 
-✔️ **Criação de aplicações web responsivas e escaláveis**  
-✔️ **Sistemas distribuídos, microsserviços e integração de APIs**  
-✔️ **Refatoração e modernização de sistemas legados**  
-✔️ **Boas práticas de código, testes automatizados e segurança**
-
-#### 🤖 **Machine Learning & Automação**
-
-✔️ **Desenvolvimento de bots inteligentes e automação de processos empresariais**  
-✔️ **Aplicação de IA para análise de dados e otimização de processos**  
-✔️ **Integração de Machine Learning com sistemas empresariais**
-
-#### 🏢 **Consultoria em TI para Empresas**
-
-✔️ **Infraestrutura, banco de dados, segurança e redes**  
-✔️ **Migração para nuvem e implementação de CI/CD**  
-✔️ **Monitoramento e suporte com Zabbix, GLPI e antivírus corporativo**  
-✔️ **Treinamento técnico e capacitação de equipes**
+Most of my work is part of enterprise and mission-critical systems that are not publicly available.  
+Technical details and architectural discussions can be shared upon request.
 
 ---
 
-### 🎓 **Formação Acadêmica & Certificações**
+## 🔗 Connect
 
-📌 **Bacharelado em Ciência da Computação** – UNIFG (2011 - 2016)  
-📌 **MBA em Gestão e Qualidade em TIC** – IFPE (2020 - 2021)  
-📌 **Residência em Programação de Software** – UFPE (2022 - 2023)  
-📌 **Curso de Extensão em Engenharia de Software Moderna** – UFMG (2025)
-
-</details>
+- LinkedIn: https://www.linkedin.com/in/joaomateusps/
+- Email: mateus@solinn.com.br
